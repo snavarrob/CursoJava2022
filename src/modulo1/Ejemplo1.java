@@ -4,7 +4,7 @@ public class Ejemplo1 {
 
 	public static void main(String[] args) {
         System.out.println("Hola Sergio");
-        System.out.println("\n\nnombre\tapellido\tlink git");
-        System.out.println("Sergio\t\tNavarro\t\thttps://github.com/snavarrob/CursoJava2022");
+        System.out.println("\n\nnombre\tapellido\temail\t\t\ttelefono");
+        System.out.println("\nSergio\tNavarro\tsergio.navarro@allianz.es\t615141339");
 	}
 }
